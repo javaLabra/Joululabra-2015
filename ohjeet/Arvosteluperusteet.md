@@ -2,7 +2,7 @@
 
 ### Aikataulun noudattaminen (12 pistettä)
 
-* Max 2 pistettä per deadline I-VI ks. [Tehtävät ja palautus](Tehtävät-ja-palautus.md)
+* Max 2 pistettä per deadline 1-6 ks. [Tehtävät ja palautus](Tehtävät-ja-palautus.md)
 
 ### Dokumentaatio (10 pistettä)
 

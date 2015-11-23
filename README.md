@@ -48,4 +48,4 @@ Pajat pidetään [Exactumissa](http://www.helsinki.fi/teknos/opetustilat/kumpula
 * Keskiviikkona 06.01.2016 Paja
 * Keskiviikkona 06.01.2016 **Deadline 5** sekä vapaaehtoinen Koodikatselmointi, klo 23:59
 * **Perjantaina 08.01.2016 Pakollinen demotilaisuus**
-* **Sunnuntaina 10.01.2016 Lopullinen palautus**
+* **Sunnuntaina 10.01.2016 Deadline 6, eli Lopullinen palautus**
