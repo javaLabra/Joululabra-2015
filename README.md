@@ -27,7 +27,7 @@ Sähköpostit: etunimi.sukunimi@helsinki.fi
 ## Uutisia
 
 * Ilmoittautuminen on alkanut!
-* Aloitusluento tiistaina 15.12. klo X luokassa X, läsnäolo pakollinen!
+* **Aloitusluento tiistaina 15.12. klo 14-15 luokassa B221, läsnäolo pakollinen!**
 
 
 # Aikataulu
