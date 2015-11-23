@@ -22,11 +22,11 @@ Jokaisen palautuksen yhteydessä ohjelma tulee voida ajaa ilman virheilmoituksia
 ### Deadline 3, maanantaina 28.12
 * [Deadlinen 3 vaatimukset](Deadline-3.md)
 
+### Deadline Katselmointi 1, maanantaina 28.12
+* Deadline [koodikatselmoinnille](Koodikatselmointi.md)
+
 ### Deadline 4, lauantaina 2.1
 * [Deadlinen 4 vaatimukset](Deadline-4.md)
-
-### Deadline Katselmointi 1, lauantaina 2.1
-* Deadline [koodikatselmoinnille](Koodikatselmointi.md)
 
 ### Deadline 5, keskiviikkona 6.1
 * [Deadlinen 5 vaatimukset](Deadline-5.md)
