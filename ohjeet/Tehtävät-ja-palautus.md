@@ -13,40 +13,34 @@ Jokaisen palautuksen yhteydessä ohjelma tulee voida ajaa ilman virheilmoituksia
 * Käy tasaisin ajoin keskustelemassa edistymisestäsi, saat samalla palautteen!
 * **Lisäaikaa saa hyvällä syyllä, etukäteen pyytämällä**
 
-### Deadline I, perjantai 30.9.
+### Deadline 1, torstaina 17.12
 * [Deadlinen 1 vaatimukset](Deadline-1.md)
 
-### Deadline II, perjantai 6.11.
+### Deadline 2, maanantaina 21.12
 * [Deadlinen 2 vaatimukset](Deadline-2.md)
 
-### Deadline III, perjantai 13.11.
+### Deadline 3, maanantaina 28.12
 * [Deadlinen 3 vaatimukset](Deadline-3.md)
 
-### Deadline Katselmointi I, sunnuntai 22.11.
-* Deadline [koodikatselmoinnille](Koodikatselmointi.md)
-
-### Deadline IV, perjantai 27.11.
+### Deadline 4, lauantaina 2.1
 * [Deadlinen 4 vaatimukset](Deadline-4.md)
 
-### Deadline V, perjantai 4.11.
+### Deadline Katselmointi 1, lauantaina 2.1
+* Deadline [koodikatselmoinnille](Koodikatselmointi.md)
+
+### Deadline 5, keskiviikkona 6.1
 * [Deadlinen 5 vaatimukset](Deadline-5.md)
 
-### Deadline VI, perjantai 11.12.
-* [Deadlinen 6 vaatimukset](Deadline-6.md)
-
-### Deadline Katselmointi II, sunnuntai 15.12.
+### Deadline Katselmointi 2, keskiviikkona 6.1
 * Deadline [koodikatselmoinnille](Koodikatselmointi.md)
+
+### Lopullinen palautus! Deadline 6, sunnuntai 10.1
+* [Deadlinen 6 vaatimukset](Deadline-6-lopullinen-palautus.md)
 
 ### Demot
 
-* Demot pidetään elokuun alussa, oletettavasti viikolla 42
-* Tarkempi ajankohta sovitaan myöhemmin
-* Demotilaisuuteen on pakko osallistua.
-* Omaa työtä esitetään 5-10 min. 
-* Ohjelma ei tarvitse olla demottaessa valmis tai bugiton
+* **Demotilaisuuteen on pakko osallistua.**
+* Omaa työtä esitetään 5-10 min.
+* Ohjelman ei tarvitse olla demottaessa valmis tai bugiton
 * Vastataan myös ohjaajien tai muiden ryhmäläisten esittämiin kysymyksiin.
 * Testaa, että ohjelmasi toimii laitoksen koneilla ennen demoa. Demokoneelle on ladattu kaikkien kurssilaisten GitHub-repositoriot hieman ennen demotilaisuuden alkua. Voit vaihtoehtoisesti tuoda oman läppärisi ja demota siltä.
-
-### Deadline VII ja lopullinen palautus, sunnuntai 18.10.
-* [Deadlinen 7 vaatimukset](Deadline-7-lopullinen-palautus.md)
-* [Muistilista lopullista palautusta varten](Muistilista.md)
