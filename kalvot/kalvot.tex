@@ -1,0 +1,212 @@
+\documentclass[finnish]{beamer}
+
+\usepackage{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{wasysym}
+\usepackage[official]{eurosym}
+
+\newcommand{\labra}{Ohjelmoinnin harjoitustyö}
+\institute{Helsingin Yliopisto, TKTL}
+\author{Atte Lassila ja Olli-Pekka Mehtonen}
+\date{15. joulukuuta - 10. tammikuuta}
+
+% Valitaan teema ja poistetaan navigointisymbolit
+\usetheme{Singapore}
+\setbeamertemplate{navigation symbols}{}
+
+\begin{document}
+	\frame{\titlepage}
+	
+	\section{Yleistä kurssista}
+	
+	\begin{frame}
+		\frametitle{Ohjaajat}
+		
+		Kurssin ohjaajat:
+		\begin{itemize}
+			\item Atte Lassila
+			\begin{itemize}
+				\item atte.lassila@helsinki.fi
+				\item serdion @ IRCNet
+			\end{itemize}
+			\item Olli-Pekka Mehtonen
+			\begin{itemize}
+				\item olli-pekka.mehtonen@helsinki.fi
+				\item Ooppa @ IRCNet
+			\end{itemize}
+		\end{itemize}
+		
+		Ota yhteyttä sähköpostilla tai irkissä (highlight!). \\
+		Irkkikanava: \#javalabra @ IRCnet \\
+		Kurssisivu: \texttt{https://github.com/javaLabra/Joululabra-2015}
+	\end{frame}
+	
+	\begin{frame}
+		\frametitle{Mistä kyse?}
+
+		Kurssilla \textbf{ohjelmoindaan}, \textbf{testataan}, \textbf{dokumentoidaan}... \\
+		Jokainen näistä tärkeä -- jonkin laiminlyönti johtaa hylkäämiseen \\
+		Aihe on omavalintainen, mutta älä ota liian suurta aihetta!
+	\end{frame}
+	
+	\begin{frame}
+		\frametitle{Esitietovaatimukset}
+		
+		Kurssilla on pakollisia esitietovaatimuksia:
+		\begin{itemize}
+			\item Ohjelmoinnin jatkokurssi
+			\item Ohjelmistotekniikan menetelmät
+		\end{itemize}
+		
+		Tule juttelemaan, jos: 
+		\begin{itemize}
+			\item Olet käynyt kurssit, mutta olet esim. ollut poissa tentin aikana
+			\item Mikä tahansa muu puute esitietovaatimuksiin liittyen
+		\end{itemize}
+	\end{frame}
+	
+	\section{Kurssin sisältö ja suoritus}
+	
+	\begin{frame}
+		\frametitle{Kurssin sisältö}
+
+		Vaatimuksia:
+		\begin{itemize}
+			\item Toteutuskielenä \textbf{Java}
+			\item Kolmannen osapuolen kirjastoja saa käyttää (muista lisenssi)
+			\item Käytössä Git-versionhallinta sekä GitHub
+			\item Harjoitustyö on yksilötyö!
+			\item Ohjelman on toimittava laitoksen tietokoneilla
+			\item Tuloksena suoritettava ohjelma
+			\item Ei pelkkä kirjasto tai muu suorittamattomissa oleva läjä koodia
+			\item Ohjelmalla oltava käyttöliittymä, mielellään graafinen
+		\end{itemize}
+	\end{frame}
+
+	\begin{frame}
+		\frametitle{Testaus, Maven, Checkstyle ja PIT}
+		
+		Lisäksi edellytetään:
+		\begin{itemize}
+			\item Kattavaa automaattista testausta (JUnit)
+			\begin{itemize}
+				\item eli rivikattavuus, mutaatiotestaus (PIT)
+			\end{itemize}
+			\item Laadukasta koodia, Clean code (Checkstyle)
+		\end{itemize}
+
+		Arvosteluperusteet (max 60p):
+		\begin{itemize}
+			\item Aikataulun noudattaminen (12 pistettä)
+			\item Dokumentaatio (10 pistettä)
+			\item Testaus (10 pistettä)
+			\item Toteutus (25 pistettä)
+			\item Katselmoinnit (3 pistettä)
+		\end{itemize}
+		
+		Arvosana: $54p \rightarrow 5$, $48p \rightarrow 4$, $42p \rightarrow 3$, $36p \rightarrow 2$, $30p \rightarrow 1$
+	\end{frame}
+	
+	\begin{frame}
+		\frametitle{Aiheen valinta}
+		
+		Esimerkkiaiheita:
+		\begin{itemize}
+			\item Laskin, funktiolaskin, graafinen laskin
+			\item Tekstieditori ("Notepad-klooni")
+			\item Keräilykorttien hallintajärjestelmä
+			\item Sudoku-ratkaisin
+			\item Pong, Asteroids, Space Invaders, Tetris
+			\item Shakki, Miinaharava, Muistipeli, Ristinolla
+		\end{itemize}
+		
+		Tällä kurssilla ei ole tärkeää:
+		\begin{itemize}
+			\item Tekoäly, Grafiikka, Tietoturva, Tehokkuus
+			\item \textbf{mutta toimivuus ja kattavuus on!}
+		\end{itemize}
+	\end{frame}
+	
+	\begin{frame}
+		\frametitle{Palautuksien takarajat}
+
+		Kurssilla tiukka deadline (intensiivikurssi):
+		\begin{itemize}
+			\item Deadlinestä annetaan 0-2 pistettä kunkin deadlinen tehtävien mukaisesti, laiminlyönti lasketaan keskeytykseksi
+			\item Ensimmäinen deadline \textbf{jo tänä torstaina}!
+			\item Palautukset tehdään pushaamalla projektin kunkin hetkinen tilanne GitHubiin (Ei sähköpostipalautuksia)
+			\item Suuri osa pisteistä -- ja siten arvosanasta -- tulevat deadlinejen perusteella (12/60p)
+			\item Ohjaajat antavat palautetta edistymisestä joka deadlinen jälkeen -- perusteellisempaa palautetta kannattaa tulla pyytämään pajasta.
+		\end{itemize}
+	\end{frame}
+	
+	\begin{frame}
+		\frametitle{Paja-ohjaus}
+
+		Kurssin aikana on ohjausta, eli pajaa:
+		\begin{itemize}
+			\item Täysin vapaaehtoista, mutta hyödyllistä
+			\item Exactumissa luokassa \textbf{BK107} (ns. alapaja)
+			\item Paras väylä saada apua ja palautetta ohjaajilta
+			\item IRC ei ole virallinen tiedonlähde, vaikka onkin kätevä
+		\end{itemize}
+	\end{frame}
+	
+	\begin{frame}
+		\frametitle{Koodikatselmoinnit}
+		
+		Kaksi vapaaehtoista koodikatselmointia:
+		\begin{itemize}
+			\item Jokainen opiskelija saa toisen opiskelijan projektin katselmoitavaksi
+			\item Opiskelijat kirjoittavat palautetta toisen projektista
+			\item Tarkoitus oppia lukemaan ja ymmärtämään toisten koodia
+			\item Katselmoinneista saa 0-1.5 pistettä/katselmointi.
+		\end{itemize}
+		Katselmoinnit ovat 3. ja 5. deadlinen yhteydessä.
+	\end{frame}
+	
+	\section{Yhteenveto}
+	
+	\begin{frame}
+		\frametitle{Motivaatio}
+
+		Yksi parhaista kursseista
+		\begin{itemize}
+			\item Voit toteuttaa mitä itse haluat!
+		\end{itemize}		
+		
+		Jos jäät jumiin tule juttelemaan ohjaajille
+		\begin{itemize}
+			\item Paja järjestetään teitä varten!
+		\end{itemize}
+		
+		Kurssin keskeytys?
+		\begin{itemize}
+			\item Juu ei!
+			\item Tavallisesti kurssien keskeyttämisestä ei juuri seurauksia -- harjoitustyöt poikkeus, erityisesti intensiivikursseilla
+			\item Kurssille pääsy vaikeutuu keskeyttämisen jälkeen
+		\end{itemize}
+	\end{frame}
+	
+	\begin{frame}
+		\frametitle{Kiitokset}
+
+		{\LARGE \textbf{Tervetuloa kurssille!}}
+		\begin{itemize}
+			\item Kaikki tarvittava löytyy kurssisivulta
+			\begin{itemize}
+				\item \texttt{https://github.com/javaLabra/Joululabra-2015}
+			\end{itemize}
+			\item Ohjaajat jäävät paikalle luennon jälkeen
+			\begin{itemize}
+				\item Tervetuloa kyselemään tai pyytämään apua 
+			\end{itemize}
+		\end{itemize}
+		\textbf{Ensimmäinen palautus Torstaina 17.12.2015, klo 23:59}
+		
+	\end{frame}
+	
+\end{document}
