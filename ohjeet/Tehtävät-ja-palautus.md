@@ -2,7 +2,7 @@
 
 **Deadline on palautuksille perjantaisin klo 23:59 ja loppupalautukselle sunnuntaina 18.10. klo 23:59**
 
-Ensimmäisessä deadline suoritetaan tekemällä vaadittavat tehtävät ja rekisteröitymällä [labtooliin](http://tktl-labtool.herokuapp.com/register). **Valitse labtoolista oman periodisi kurssi (Javalabra2015-1).** Versionhallinnassa käytetään tällä kurssilla Gittiä, tarkemmin Github-palvelua. Ensimmäisen deadlinen jälkeen palautukseksi katsotaan viimeisin ennen deadlinea suoritettu Github-pushaus. Erillisiä sähköpostipalautuksia tai vastaavia ei hyväksytä.
+Ensimmäisessä deadline suoritetaan tekemällä vaadittavat tehtävät ja rekisteröitymällä [labtooliin](http://tktl-labtool.herokuapp.com/register). **Valitse labtoolista oman periodisi kurssi (Javalabra2015-Vuodenvaihde).** Versionhallinnassa käytetään tällä kurssilla Gittiä, tarkemmin Github-palvelua. Ensimmäisen deadlinen jälkeen palautukseksi katsotaan viimeisin ennen deadlinea suoritettu Github-pushaus. Erillisiä sähköpostipalautuksia tai vastaavia ei hyväksytä.
 
 Jokaisen palautuksen yhteydessä ohjelma tulee voida ajaa ilman virheilmoituksia, vaikka se ei tekisi vielä mitään. Toiminnallisuutta ja käyttöliittymää toteutetaan pikkuhiljaa. Lisäksi dokumentaation  on oltava ajantasalla ja siihen asti tehtyjen testien mentävä läpi toteutusvaiheen mukaisesti. Koodin on oltava selkeää, luettavaa ja helposti ylläpidettävää. Enemmän tästä sivulla [koodin laatuvaatimukset](Koodin-laatuvaatimukset.md). Dokumentaation tulee olla laadittu .md-tiedostoihin. Kuvat voivat olla .jpg tai .png -formaatissa.
 
