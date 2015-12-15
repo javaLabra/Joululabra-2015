@@ -6,7 +6,7 @@
 * [Git-ohje](Git-ohje.md)
 
 ### Luo uusi Netbeans-projekti repositoriokansioosi
-* Luo projekti ja konfiguroi Maven, Cobertura ja PIT [näiden ohjeiden](Maven-Cobertura-ja-PIT.md) mukaisesti.
+* Luo projekti ja konfiguroi Maven ja PIT [näiden ohjeiden](Maven-Cobertura-ja-PIT.md) mukaisesti.
 * Samalla kansioon pitäisi ilmestyä .gitignore -tiedosto
 
 ### Kirjoita aihemäärittely
