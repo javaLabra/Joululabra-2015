@@ -39,8 +39,8 @@ Jokaisen palautuksen yhteydessä ohjelma tulee voida ajaa ilman virheilmoituksia
 
 ### Demot
 
-* **Demotilaisuuteen on pakko osallistua.**
-* Omaa työtä esitetään 5-10 min.
+* **Demotilaisuuteen on pakko osallistua jos haluaa kurssin läpi.**
+* Omaa työtä esitetään 3-7 min.
 * Ohjelman ei tarvitse olla demottaessa valmis tai bugiton
 * Vastataan myös ohjaajien tai muiden ryhmäläisten esittämiin kysymyksiin.
 * Testaa, että ohjelmasi toimii laitoksen koneilla ennen demoa. Demokoneelle on ladattu kaikkien kurssilaisten GitHub-repositoriot hieman ennen demotilaisuuden alkua. Voit vaihtoehtoisesti tuoda oman läppärisi ja demota siltä.
