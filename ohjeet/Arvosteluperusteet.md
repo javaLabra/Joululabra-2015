@@ -6,15 +6,18 @@
 
 ### Dokumentaatio (10 pistettä)
 
-* JavaDoc
+* Kattavat JavaDocit
 * Luokka- ja sekvenssikaaviot
-* Ohjelman rakenteen tekstuaalinen kuvaus (aihemäärittely ja rakenteen kuvaus)
+* Ohjelman rakenteen tekstuaalinen kuvaus
+ * Aihemäärittely ja rakenteen kuvaus
 * Käyttöohje
-* Tuntikirjanpito (käytettyjen tuntien määrä ei vaikuta, mutta tuntikirjanpito tulee tehdä)
+* Tuntikirjanpito
+ * Käytettyjen tuntien määrä ei vaikuta
+ * Tuntikirjanpitoa tulee jatkaa jokaisessa deadlinessa
 
 ### Testaus (10 pistettä)
 
-* Junit
+* JUnit (rivikattavuus ja mutaatiot)
 * Oikein nimetty testipakkaus ja testiluokat
 * Testaa mahdollisimman montaa luokkaa
 * Testaa mahdollisimman montaa metodia
