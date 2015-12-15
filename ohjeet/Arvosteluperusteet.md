@@ -39,6 +39,13 @@
 * 5-8 laadukasta rakentavaa palautekommenttia riittää 1,5 pisteeseen
 
 
+### Demotilaisuus (0 pistettä)
+
+* Demotilaisuus on pakollinen kurssin läpipääsylle!
+* Jokainen demoaa omaa sovellustaan 3-7 minuuttia
+* Opiskelijat paikalla koko demotilaisuuden ajan
+* Harjoitustyön ei tarvitse olla demossa vielä aivan valmis
+
 **Maksimipisteet: 60**
 
 
