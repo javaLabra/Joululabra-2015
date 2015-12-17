@@ -32,3 +32,9 @@
 * Määrittelyvaiheen luokkakaavio
 * Luokkakaavioon järjestelmän tärkeimmät luokat
 * Luokkien nimet ja yhteydet riittää
+
+#### Piirtotyökaluja
+
+Kurssiin soveltuvia piirtotyökaluja ovat:
+* [http://yuml.me/](http://yuml.me/) luokka- ja käyttötapauskaavioihin
+* [https://www.websequencediagrams.com/](https://www.websequencediagrams.com/) sekvenssikaavioihin
