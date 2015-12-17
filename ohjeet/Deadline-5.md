@@ -29,4 +29,4 @@
   * Sekvenssikaavio alkaa tunnusten syöttämisellä, kirjautuminen hylätään, virheilmoitus, tunnukset syötetään uudestaan, kirjautuminen onnistuu
 
 ### Muu dokumentaatio
-* Aihemäärittely ja luokkakaaviot ajantasalla
+* Aihemäärittely ja luokkakaaviot ajantasalla **viimeistään nyt**!
