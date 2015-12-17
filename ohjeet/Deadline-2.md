@@ -32,4 +32,3 @@
 * Määrittelyvaiheen luokkakaavio
 * Luokkakaavioon järjestelmän tärkeimmät luokat
 * Luokkien nimet ja yhteydet riittää
-* [Matin Ilmoittautumisjärjestelmän minikaavio tuopinalusessa](https://raw.github.com/javaLabra/Javalabra2013-1/master/luokkakaavio1.jpg)
