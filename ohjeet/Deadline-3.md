@@ -22,4 +22,3 @@
 * Tarkenna ohjelman luokkakaaviota tai piirrä uusi kuvaamaan nykyistä rakennetta
 * Merkitse kytkentärajoitteet
 * Lähtökohdaksi voi ottaa ohjelmakoodinsa
-* [Matin Ilmoitusjärjestelmän kaavio tarkentunut](https://raw.github.com/javaLabra/Javalabra2013-1/master/luokkakaavio2.jpg)
