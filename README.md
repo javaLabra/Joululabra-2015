@@ -36,9 +36,9 @@ Huomioithan, että tämä on intensiivikurssi, joten palautusajat ovat paljon ti
 
 Pajat pidetään [Exactumissa](http://www.helsinki.fi/teknos/opetustilat/kumpula/gh2b/default.htm) luokassa **BK107**, ellei toisin ilmoiteta. **Paja-aikatauluun tulee tarkennuksia myöhemmin!**
 
-* **Tiistaina 15.12.2015 Pakollinen aloitusluento**
-* Torstaina 17.12.2015 Paja klo 12-14 BK107
-* Torstaina 17.12.2015 **Deadline 1**, klo 23:59
+* ~~Tiistaina 15.12.2015 Pakollinen aloitusluento~~
+* ~~Torstaina 17.12.2015 Paja klo 12-14 BK107~~
+* ~~Torstaina 17.12.2015 Deadline 1, klo 23:59~~
 * Maanantaina 21.12.2015 Paja klo 12-14 BK107
 * Maanantaina 21.12.2015 **Deadline 2**, klo 23:59
 * Maanantaina 28.12.2015 Paja klo 12-14 BK107
