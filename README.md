@@ -26,9 +26,7 @@ Sähköpostit: etunimi.sukunimi@helsinki.fi
 
 ## Uutisia
 
-* Ilmoittautuminen on alkanut!
-* **Aloitusluento tiistaina 15.12. klo 14-15 luokassa B221, läsnäolo pakollinen!**
-
+* Yksittäinen paja-aika muttunut 06.01 => 05.01, koska pyhäpäivä
 
 # Aikataulu
 
@@ -45,7 +43,7 @@ Pajat pidetään [Exactumissa](http://www.helsinki.fi/teknos/opetustilat/kumpula
 * Maanantaina 28.12.2015 **Deadline 3** sekä vapaaehtoinen Koodikatselmointi, klo 23:59
 * Keskiviikkona 30.12.2015 Paja klo 12-14 BK107
 * Lauantaina 02.01.2016 **Deadline 4**, klo 23:59
-* Keskiviikkona 06.01.2016 Paja klo 12-14 BK107
+* Tiistaina 05.01.2016 Paja klo 12-14 BK107
 * Keskiviikkona 06.01.2016 **Deadline 5** sekä vapaaehtoinen Koodikatselmointi, klo 23:59
 * **Perjantaina 08.01.2016 Pakollinen demotilaisuus**
 * **Sunnuntaina 10.01.2016 Deadline 6, eli Lopullinen palautus**
