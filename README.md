@@ -38,7 +38,7 @@ Pajat pidetään [Exactumissa](http://www.helsinki.fi/teknos/opetustilat/kumpula
 * ~~Torstaina 17.12.2015 Paja klo 12-14 BK107~~
 * ~~Torstaina 17.12.2015 Deadline 1, klo 23:59~~
 * ~~Maanantaina 21.12.2015 Paja klo 12-14 BK107~~
-* Maanantaina 21.12.2015 **Deadline 2**, klo 23:59
+* ~~Maanantaina 21.12.2015 Deadline 2, klo 23:59~~
 * Maanantaina 28.12.2015 Paja klo 12-14 BK107
 * Maanantaina 28.12.2015 **Deadline 3** sekä vapaaehtoinen Koodikatselmointi, klo 23:59
 * Keskiviikkona 30.12.2015 Paja klo 12-14 BK107
