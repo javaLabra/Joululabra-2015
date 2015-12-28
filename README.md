@@ -27,6 +27,7 @@ Sähköpostit: etunimi.sukunimi@helsinki.fi
 ## Uutisia
 
 * Yksittäinen paja-aika muttunut 06.01 => 05.01, koska pyhäpäivä
+* **Jos BK107 on kiinni niin paja on tällöin vaihtoehtoisesti luokassa B221**
 
 # Aikataulu
 
@@ -39,7 +40,7 @@ Pajat pidetään [Exactumissa](http://www.helsinki.fi/teknos/opetustilat/kumpula
 * ~~Torstaina 17.12.2015 Deadline 1, klo 23:59~~
 * ~~Maanantaina 21.12.2015 Paja klo 12-14 BK107~~
 * ~~Maanantaina 21.12.2015 Deadline 2, klo 23:59~~
-* Maanantaina 28.12.2015 Paja klo 12-14 BK107
+* ~~Maanantaina 28.12.2015 Paja klo 12-14 BK107~~
 * Maanantaina 28.12.2015 **Deadline 3** sekä vapaaehtoinen Koodikatselmointi, klo 23:59
 * Keskiviikkona 30.12.2015 Paja klo 12-14 BK107
 * Lauantaina 02.01.2016 **Deadline 4**, klo 23:59
