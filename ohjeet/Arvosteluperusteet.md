@@ -33,7 +33,7 @@
 * Virhetilanteiden käsittely ja koodin vikasietoisuus
 * Graafinen käyttöliittymä
 * Koodin selkeys ja luettavuus, muuttujien nimeäminen
-  * Checkstyle raportti luotu ja on projektissa
+  * Checkstyle raportti luotu ja on projektissa (VAPAAEHTOINEN, korvaa puutteita toteutuksessa enintään 2 pistettä)
 * Oliorakenteen ja ohjelman selkeys
 
 ### Katselmointi (3 pistettä)
