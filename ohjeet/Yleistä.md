@@ -4,13 +4,13 @@
 
 Harjoitustyössä toteutetaan itsenäisesti ohjelmisto omavalinteisesta [aiheesta](Esimerkkejä-aiheista.md). Tavoitteena on soveltaa ja syventää ohjelmistotekniikan menetelmät (ohjelmistojen mallintaminen) sekä ohjelmoinnin perus- ja jatkokursseilla opittuja taitoja ja harjoitella tiedon omatoimista etsimistä. Harjoitustyötä tehdään itsenäisesti ja tarjolla on pajaohjausta. 
 
-Harjoitustyön on edettävä [viikottaisten virstanpylväiden mukaan](Tehtävät-ja-palautus.md). Työ on saatava valmiiksi kurssin aikana, muuten kurssi katsotaan keskeytetyksi. Samaa ohjelmaa ei voi jatkaa myöhemmin toisessa yrityksessä, vaan työ on aloitettava uudella aiheella alusta. Kurssin uusimismahdollisuuksia on jouduttu rajoittamaan, joten varaathan riittävästi aikaa kurssin suorittamiseen! 
+Harjoitustyön on edettävä [viikottaisten virstanpylväiden mukaan](Tehtävät-ja-palautus.md). Työ on saatava valmiiksi kurssin aikana ja sitä on toteutettava tasaisesti, muuten kurssi katsotaan keskeytetyksi. Samaa ohjelmaa ei voi jatkaa myöhemmin toisessa yrityksessä, vaan työ on aloitettava uudella aiheella alusta. Kurssin uusimismahdollisuuksia on jouduttu rajoittamaan, joten varaathan riittävästi aikaa kurssin suorittamiseen! 
 
 ### Harjoitustyön kieli ja ohjelmointikieli
 
-Harjoitustyön ohjelmointikieli on Java. Erikoistapauksista voi yrittää sopia kurssin vastuuhenkilön ([Matti Luukkainen](http://www.cs.helsinki.fi/people/mluukkai)) kanssa.
+Harjoitustyön ohjelmointikieli on Java.
 
-Ohjelmakoodin muuttujat, luokat ja metodit voi kirjoittaa suomeksi tai englanniksi, kunhan kieliä ei sekoita rumasti keskenään. Samoin Javadoc ja muu dokumentaatio kirjoitetaan suomeksi tai englanniksi. Hyväksyttävä tapa on myös kirjoittaa koodi englanniksi, mutta dokumentaatio suomeksi.
+Ohjelmakoodin muuttujat, luokat ja metodit voi kirjoittaa suomeksi tai englanniksi, kunhan kieliä ei sekoita rumasti keskenään. Samoin Javadoc ja muu dokumentaatio kirjoitetaan suomeksi tai englanniksi. Suositeltava tapa on kirjoittaa koodi englanniksi ja dokumentaatio suomeksi.
 
 ### Ohjelman toteutus
 
