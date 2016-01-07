@@ -4,7 +4,7 @@
 
  * Tilaisuuden tarkoituksena on antaa mahdollisuus nähdä muiden opiskelijoiden töitä ja antaa pienen harjoituksen myöhemmillä kursseilla tarvittavasta oman sovelluksen esittelytaidosta.
  * Kesto on maksimissaan 5 minuuttia, koska osallistujia on monta.
- * Kurssin opiskelijoiden repositoriot ladataan esittelykoneelle josta ne demotaan videotykillä muille.
+ * Kurssin opiskelijoiden repositoriot ladataan esittelykoneelle (noin 30min ennen demotilaisuutta) josta ne demotaan videotykillä muille.
  * Sovellus avataan Netbeanssilla, mutta myös komentorivi on käytössä.
  
 ## Valmistautuminen
