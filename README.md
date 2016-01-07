@@ -46,5 +46,5 @@ Pajat pidetään [Exactumissa](http://www.helsinki.fi/teknos/opetustilat/kumpula
 * ~~Lauantaina 02.01.2016 Deadline 4, klo 23:59~~
 * ~~Tiistaina 05.01.2016 Paja klo 12-14 B221~~
 * ~~Keskiviikkona 06.01.2016 Deadline 5 sekä vapaaehtoinen Koodikatselmointi, klo 23:59~~
-* **Perjantaina 08.01.2016 Pakollinen demotilaisuus luokassa B221 klo 12-15**
+* **Perjantaina 08.01.2016 Pakollinen [demotilaisuus](ohjeet/demotilaisuus.md) luokassa B221 klo 12-15**
 * **Sunnuntaina 10.01.2016 Deadline 6, eli Lopullinen palautus**
